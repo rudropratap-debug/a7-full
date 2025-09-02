@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Digital Camera",
+    "description": "A high-resolution DSLR camera with 24MP and 18-55mm lens.",
+    "currentBidPrice": 320.00,
+    "timeLeft": "2h 15m",
+    "bidsCount": 12,
+    "image": "https://i.ibb.co.com/Z6K9yJdS/Bid3-min.png"
+  },
+  {
+    "id": 2,
+    "title": "Acoustic Guitar",
+    "description": "Full-size acoustic guitar made of mahogany with steel strings.",
+    "currentBidPrice": 150.00,
+    "timeLeft": "4h 50m",
+    "bidsCount": 8,
+    "image": "https://i.ibb.co.com/Z6K9yJdS/Bid3-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Laptop",
+    "description": "15.6-inch laptop with Intel i7, 16GB RAM, and 512GB SSD.",
+    "currentBidPrice": 725.00,
+    "timeLeft": "1h 30m",
+    "bidsCount": 20,
+    "image": "https://i.ibb.co.com/Z6K9yJdS/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Wrist Watch",
+    "description": "Water-resistant analog wristwatch with leather strap.",
+    "currentBidPrice": 85.50,
+    "timeLeft": "5h 10m",
+    "bidsCount": 5,
+    "image": "https://i.ibb.co.com/Z6K9yJdS/Bid3-min.png"
+  },
+  {
+    "id": 5,
+    "title": "Wooden Chair",
+    "description": "Handcrafted wooden chair with cushioned seat and backrest.",
+    "currentBidPrice": 60.00,
+    "timeLeft": "3h 45m",
+    "bidsCount": 6,
+    "image": "https://i.ibb.co.com/Z6K9yJdS/Bid3-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Classic Novel",
+    "description": "Hardcover edition of a popular 19th-century classic novel.",
+    "currentBidPrice": 22.00,
+    "timeLeft": "6h 20m",
+    "bidsCount": 3,
+    "image": "https://i.ibb.co.com/Z6K9yJdS/Bid3-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Flower Vase",
+    "description": "Ceramic flower vase with hand-painted floral patterns.",
+    "currentBidPrice": 35.00,
+    "timeLeft": "2h 5m",
+    "bidsCount": 7,
+    "image": "https://i.ibb.co.com/Z6K9yJdS/Bid3-min.png"
+  }
+]
