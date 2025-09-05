@@ -171,10 +171,25 @@ function handleRemainingAmount(deductedAmount){
 
       {/* footer start */}
 
-      <footer className="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-4">
+      <footer className="footer sm:footer-horizontal footer-center bg-base-300 text-base-content  flex flex-col p-5">
   
     <div className="">
       <a className="btn btn-ghost text-3xl text-yellow-400"><span className='text-blue-600 text-2xl'>auction</span>Gallery</a>
+    </div>
+
+    <div className='flex text-lg font-semibold'>
+      <p>Bid</p>
+      <p>Win</p>
+      <p>Own</p>
+    </div>
+    <div className='flex text-lg'>
+      <p>Home</p>
+      <p>Auction</p>
+      <p>Categories</p>
+      <p>How to work</p>
+    </div>
+    <div>
+      <p className='text-2xl'>© 2025 AuctionHub. All rights reserved.</p>
     </div>
 
     
